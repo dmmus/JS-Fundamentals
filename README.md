@@ -1,0 +1,1 @@
+This week i learn and practice a lot on js and git. this practice really improve my ability to work on js, git bash, vscode, and so on as a developer.
